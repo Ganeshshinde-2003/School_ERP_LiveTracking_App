@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "786247972605",
+    "project_id": "lmsapp-5ab03",
+    "storage_bucket": "lmsapp-5ab03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786247972605:android:302dc1be98701bbf857094",
+        "android_client_info": {
+          "package_name": "com.example.livelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgcDzZS5_w-vF6U_ljaQAuFT5G1-tScE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786247972605-4um648ni2n5o4k0a4uq42dmfk0udc65c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lmsParent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786247972605:android:5c77c8fdf8710063857094",
+        "android_client_info": {
+          "package_name": "com.example.lms_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgcDzZS5_w-vF6U_ljaQAuFT5G1-tScE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786247972605-4um648ni2n5o4k0a4uq42dmfk0udc65c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lmsParent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786247972605:android:901a9900a9c1f18b857094",
+        "android_client_info": {
+          "package_name": "com.example.lms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgcDzZS5_w-vF6U_ljaQAuFT5G1-tScE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786247972605-4um648ni2n5o4k0a4uq42dmfk0udc65c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lmsParent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786247972605:android:5e454ffa9f6022f3857094",
+        "android_client_info": {
+          "package_name": "com.example.lms_parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgcDzZS5_w-vF6U_ljaQAuFT5G1-tScE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786247972605-lqjalva9rppjajhpd6ou1loa7qecilrq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786247972605-4um648ni2n5o4k0a4uq42dmfk0udc65c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lmsParent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
